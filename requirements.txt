@@ -1,0 +1,12 @@
+# For linting
+mypy
+types-PyAutoGUI
+types-keyboard
+
+# Actual package use
+keyboard
+numpy==1.26.4
+opencv-python
+pillow
+pyautogui
+pywinauto
