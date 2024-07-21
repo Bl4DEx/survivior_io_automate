@@ -1,0 +1,8 @@
+# For linting
+mypy
+types-keyboard
+types-Pillow
+types-PyAutoGUI
+
+# Actual package use
+-r requirements.txt
